@@ -1,6 +1,6 @@
 # 🗺️ Mapa Interativo de Postos de Combustível no Ceará - Python + Folium
 
-![Mapa Interativo](img/mapa_exemplo.png)
+![Mapa Interativo](img/mapa.png)
 
 Este projeto Python utiliza dados da Overpass API (OpenStreetMap) para mapear postos de combustível no estado do Ceará e exibi-los em um mapa interativo com recursos de clusterização e ferramentas adicionais como medição e visualização em tela cheia.
 
@@ -42,7 +42,6 @@ Basta ajustar a *query* da Overpass API para mudar o tipo de estabelecimento que
 
 ### 1. Clone o repositório ou baixe o arquivo `.py`
 
-```bash
 git clone https://github.com/seuusuario/mapa-postos-ceara.git
 cd mapa-postos-ceara
 
@@ -50,9 +49,7 @@ cd mapa-postos-ceara
 
 Use o `pip` para instalar as bibliotecas necessárias:
 
-```bash
 pip install -r requirements.txt
-
 
 ## 🤝 Contribuições
 
